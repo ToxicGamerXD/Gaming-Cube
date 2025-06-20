@@ -1,8 +1,8 @@
-# Nutzungsbedingungen (Terms of Service)
+# Privacy Policy
 
 ---
 
-Bitte lies diese Nutzungsbedingungen sorgfältig durch, bevor du unseren Discord-Bot („Bot“) verwendest. Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
+Bitte lies diese Privacy Policy sorgfältig durch, bevor du unseren Discord-Bot verwendest. Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
 
 ---
 
