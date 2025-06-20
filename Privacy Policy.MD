@@ -69,8 +69,8 @@ Du hast folgende Rechte bezüglich deiner gespeicherten Daten:
 
 Möchtest du, dass deine Daten gelöscht werden, kontaktiere uns über:
 
-**Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
-**Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
+- **Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
+- **Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
 
 ---
 
@@ -85,7 +85,7 @@ Die aktuelle Version ist stets unter [Link zu deiner Website oder Datei] verfüg
 
 Bei Fragen zum Datenschutz kannst du dich jederzeit an uns wenden:
 
-**Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
-**Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
+- **Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
+- **Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
 
 ---
