@@ -1,6 +1,5 @@
 # Datenschutzerklärung (Privacy Policy)
 
-**Gültig ab:** [TT.MM.JJJJ]  
 Diese Datenschutzerklärung informiert dich darüber, wie unser Discord-Bot („Bot“) personenbezogene Daten verarbeitet und schützt.
 
 ---
