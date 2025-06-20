@@ -1,5 +1,7 @@
 # Nutzungsbedingungen (Terms of Service)
 
+---
+
 Bitte lies diese Nutzungsbedingungen sorgfältig durch, bevor du unseren Discord-Bot („Bot“) verwendest. Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
 
 ---
