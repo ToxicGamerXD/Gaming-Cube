@@ -1,52 +1,92 @@
-# Privacy Policy
+# Datenschutzerklärung (Privacy Policy)
+
+**Gültig ab:** [TT.MM.JJJJ]  
+Diese Datenschutzerklärung informiert dich darüber, wie unser Discord-Bot („Bot“) personenbezogene Daten verarbeitet und schützt.
 
 ---
 
-Bitte lies diese Privacy Policy sorgfältig durch, bevor du unseren Discord-Bot verwendest. Durch die Nutzung des Bots erklärst du dich mit diesen Bedingungen einverstanden.
+## 1. Verantwortlicher
+
+Verantwortlich für die Datenverarbeitung im Rahmen dieses Bots ist:
+
+**Name:** TX-Development
+**Kontakt:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
+**Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
 
 ---
 
-## 1. Nutzung des Bots
+## 2. Erfasste Daten
 
-- Der Bot darf nur in Übereinstimmung mit den Discord [Nutzungsbedingungen](https://discord.com/terms) und [Community-Richtlinien](https://discord.com/guidelines) verwendet werden.
-- Du darfst den Bot nicht für illegale, schädliche oder belästigende Zwecke nutzen.
-- Die Nutzung des Bots erfolgt auf eigene Verantwortung.
+Unser Bot kann folgende Informationen verarbeiten:
 
----
+- **Benutzer-IDs** (z. B. zur Identifikation und Ausführung von Befehlen)
+- **Server-IDs / Channel-IDs** (zur Konfiguration von Funktionen)
+- **Bot-Befehle und Interaktionen**
+- **Einstellungen** (z. B. Sprache, Prefixe, Konfigurationen)
 
-## 2. Datenerfassung & Datenschutz
-
-- Der Bot kann bestimmte Daten erfassen, darunter:
-  - Discord-Benutzer-IDs
-  - Server-IDs
-  - Channel-IDs
-  - Interaktionen und Befehle
-- Es werden **keine Nachrichteninhalte dauerhaft gespeichert**, es sei denn, eine Funktion erfordert dies ausdrücklich.
-- Alle gesammelten Daten werden vertraulich behandelt und **nicht an Dritte weitergegeben**.
+Der Bot speichert **keine Nachrichteninhalte**, es sei denn, eine bestimmte Funktion (z. B. Moderationslog) erfordert dies ausdrücklich – und nur, wenn sie durch Server-Administratoren aktiviert wurde.
 
 ---
 
-## 3. Haftungsausschluss
+## 3. Zweck der Datenverarbeitung
 
-- Wir übernehmen keine Haftung für Schäden, die durch die Nutzung des Bots entstehen.
-- Wir garantieren nicht für die Verfügbarkeit, Sicherheit oder Fehlerfreiheit des Bots.
-- Funktionen können jederzeit ohne Vorankündigung geändert oder eingestellt werden.
+Die Verarbeitung erfolgt zu folgenden Zwecken:
 
----
-
-## 4. Änderungen
-
-- Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern.
-- Änderungen treten mit ihrer Veröffentlichung in Kraft.
-- Durch die weitere Nutzung des Bots erklärst du dich mit den Änderungen einverstanden.
+- Bereitstellung und Betrieb von Bot-Funktionen
+- Speicherung von benutzer- oder serverbezogenen Einstellungen
+- Verbesserung der Funktionalität und Fehlerbehebung
+- Optional: Statistiken (anonymisiert)
 
 ---
 
-## 5. Kontakt
+## 4. Weitergabe von Daten
 
-Bei Fragen oder Anliegen kannst du uns hier kontaktieren:
+Es erfolgt **keine Weitergabe** deiner personenbezogenen Daten an Dritte.  
+Eine Ausnahme besteht nur, wenn wir gesetzlich dazu verpflichtet sind (z. B. auf Anfrage von Behörden).
 
-**Discord:** `@nontoxicshamer`  
+---
+
+## 5. Speicherdauer
+
+- Daten werden nur so lange gespeichert, wie sie für die jeweiligen Funktionen benötigt werden.
+- Du kannst jederzeit die Löschung deiner Daten beantragen (siehe unten).
+
+---
+
+## 6. Deine Rechte (gemäß DSGVO)
+
+Du hast folgende Rechte bezüglich deiner gespeicherten Daten:
+
+- **Auskunft** (Art. 15 DSGVO)
+- **Berichtigung** (Art. 16 DSGVO)
+- **Löschung** (Art. 17 DSGVO)
+- **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
+- **Widerspruch** gegen die Verarbeitung (Art. 21 DSGVO)
+- **Beschwerderecht** bei einer Datenschutzaufsichtsbehörde
+
+---
+
+## 7. Datenlöschung
+
+Möchtest du, dass deine Daten gelöscht werden, kontaktiere uns über:
+
+**Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
+**Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
+
+---
+
+## 8. Änderungen an dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann bei Bedarf aktualisiert werden.
+Die aktuelle Version ist stets unter [Link zu deiner Website oder Datei] verfügbar.
+
+---
+
+## 9. Kontakt
+
+Bei Fragen zum Datenschutz kannst du dich jederzeit an uns wenden:
+
+**Discord:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
 **Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
 
 ---
