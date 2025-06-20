@@ -1,6 +1,6 @@
 # Datenschutzerklärung (Privacy Policy)
 
-Diese Datenschutzerklärung informiert dich darüber, wie unser Discord-Bot („Bot“) personenbezogene Daten verarbeitet und schützt.
+Diese Datenschutzerklärung informiert dich darüber, wie unser Discord-Bot personenbezogene Daten verarbeitet und schützt.
 
 ---
 
