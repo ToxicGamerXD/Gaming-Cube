@@ -8,9 +8,9 @@ Diese Datenschutzerklärung informiert dich darüber, wie unser Discord-Bot pers
 
 Verantwortlich für die Datenverarbeitung im Rahmen dieses Bots ist:
 
-**Name:** TX-Development
-**Kontakt:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
-**Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
+- **Name:** TX-Development
+- **Kontakt:** [@nontoxicshamer](https://discord.com/users/800387017850224660)
+- **Support-Server:** [TX Development](https://discord.gg/FrMsAVnXRA)
 
 ---
 
